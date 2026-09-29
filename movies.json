@@ -1,0 +1,13 @@
+[
+  { "id": "1", "title": "Inception", "genre": "Sci-Fi", "year": 2010, "rating": 8.8, "poster": "https://picsum.photos/seed/inception/300/450", "isShowing": true },
+  { "id": "2", "title": "The Dark Knight", "genre": "Action", "year": 2008, "rating": 9.0, "poster": "https://picsum.photos/seed/darkknight/300/450", "isShowing": false },
+  { "id": "3", "title": "Interstellar", "genre": "Sci-Fi", "year": 2014, "rating": 8.7, "poster": "https://picsum.photos/seed/interstellar/300/450", "isShowing": true },
+  { "id": "4", "title": "Parasite", "genre": "Thriller", "year": 2019, "rating": 8.5, "poster": "https://picsum.photos/seed/parasite/300/450", "isShowing": false },
+  { "id": "5", "title": "Dune: Part Two", "genre": "Adventure", "year": 2024, "rating": 8.6, "poster": "https://picsum.photos/seed/dune2/300/450", "isShowing": true },
+  { "id": "6", "title": "Oppenheimer", "genre": "Drama", "year": 2023, "rating": 8.3, "poster": "https://picsum.photos/seed/oppenheimer/300/450", "isShowing": true },
+  { "id": "7", "title": "Spirited Away", "genre": "Animation", "year": 2001, "rating": 8.6, "poster": "https://picsum.photos/seed/spirited/300/450", "isShowing": false },
+  { "id": "8", "title": "Mắt Biếc", "genre": "Romance", "year": 2019, "rating": 7.2, "poster": "https://picsum.photos/seed/matbiec/300/450", "isShowing": false },
+  { "id": "9", "title": "Joker", "genre": "Crime", "year": 2019, "rating": 8.4, "poster": "https://picsum.photos/seed/joker/300/450", "isShowing": true },
+  { "id": "10", "title": "Lật Mặt 7", "genre": "Family", "year": 2024, "rating": 7.0, "poster": "https://picsum.photos/seed/latmat7/300/450", "isShowing": true },
+  { "id": "11", "title": "Avatar: The Way of Water", "genre": "Fantasy", "year": 2022, "rating": 7.6, "poster": "https://picsum.photos/seed/avatar2/300/450", "isShowing": false }
+]
